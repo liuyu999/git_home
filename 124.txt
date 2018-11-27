@@ -1,0 +1,4 @@
+total 4.0K
+-rw-rw-r-- 1 liuyu liuyu    0 9月   6 19:54 123.txt
+-rw-rw-r-- 1 liuyu liuyu    0 9月   6 19:53 a.py
+drwxrwxr-x 4 liuyu liuyu 4.0K 9月   6 19:23 gitdemo
